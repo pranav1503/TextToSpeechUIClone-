@@ -1,16 +1,8 @@
 # Text To Speech App UI Clone
 
-A new Flutter application.
+This is an UI clone of a Text to Speech App. 
+This Project/Repository is purely For Educational Purposes.
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The UI is Taken From: https://images-platform.99static.com/EwDl7a2pFClV0IfVmLMnK0D1noU=/228x145:1735x1652/fit-in/900x675/99designs-contests-attachments/97/97075/attachment_97075698
